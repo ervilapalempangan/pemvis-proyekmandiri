@@ -1,0 +1,15 @@
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\bin\Debug\Proyekmandiri.exe.config
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\bin\Debug\Proyekmandiri.exe
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\bin\Debug\Proyekmandiri.pdb
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\bin\Debug\Proyekmandiri.xml
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.vbprojAssemblyReference.cache
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.frmpasien.resources
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.Resources.resources
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.vbproj.GenerateResource.cache
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.vbproj.CoreCompileInputs.cache
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.exe
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.xml
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.pdb
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.frmlogin.resources
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.frmutama.resources
+C:\Users\STT PLN\source\repos\Proyekmandiri\Proyekmandiri\obj\Debug\Proyekmandiri.frmtambahuser.resources

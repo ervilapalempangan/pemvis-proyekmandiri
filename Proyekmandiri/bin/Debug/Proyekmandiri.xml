@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Proyekmandiri
+</name>
+</assembly>
+<members>
+<member name="T:Proyekmandiri.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources._000c73f78d9c4aeca8f002c06c0ba2cb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources._1486504830_delete_dustbin_empty_recycle_recycling_remove_trash_81361">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources._7f4b8f6049707c49b10bd35ddd32db8e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.cab4eb533b9b09da9c1424647c35dc78">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.cari">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.DocumentEdit_40924">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.e813299eae5db09e8bbf7118d1b34099">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.exit_icon_icons_com_70975">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.ic_history_128_28522">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.Patient_Female_icon_icons_com_75052">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.Save_icon_icons_com_73702">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.Save_icon_icons_com_73702_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.user_person_customer_man_1532">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Proyekmandiri.My.Resources.Resources.xmag_search_find_export_locate_5984">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
